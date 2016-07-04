@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Tedde Lundgren</title>
+  <subtitle>Web developer from Sweden</subtitle>
+  <link href="https://tedeh.net/atom.xml" rel="self" />
+  <link href="https://tedeh.net/" />
+  <id>urn:uuid:70ac1820-4226-11e6-8720-04010f6b8901</id>
+  <updated>2016-07-04T12:00:00Z</updated>
+
+  <entry>
+    <title>How this site was built</title>
+    <link rel="alternate" type="text/html" href="https://tedeh.net/how-this-site-was-built.html"/>
+    <id>urn:uuid:1978650c-6c88-4e79-b03a-4ebf5c46ea99</id>
+    <updated>2016-07-04T12:00:00Z</updated>
+    <summary>I would like to explain how</summary>
+    <author>
+      <name>Tedde Lundgren</name>
+      <email>mail@tedeh.net</email>
+    </author>
+  </entry>
+
+</feed>
